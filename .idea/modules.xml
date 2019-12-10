@@ -3,7 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/tictacktoereal.iml" filepath="$PROJECT_DIR$/tictacktoereal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tictacktoereal-mac-win.iml" filepath="$PROJECT_DIR$/tictacktoereal-mac-win.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/tictacktoereal-mac-win-app.iml" filepath="$PROJECT_DIR$/app/tictacktoereal-mac-win-app.iml" />
     </modules>
   </component>
 </project>
